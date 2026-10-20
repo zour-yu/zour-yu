@@ -11,12 +11,8 @@
 <br/><br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-SYSTEMS_NOMINAL-00E599?style=for-the-badge&logo=statuspage&logoColor=0b0f19" alt="Status" />
-  &nbsp;
   <img src="https://img.shields.io/badge/LOCATION-COLOMBO%2C%20LK-0284C7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   &nbsp;
-  <img src="https://img.shields.io/badge/AFFILIATION-SOUNDMOUSE-8B5CF6?style=for-the-badge&logo=target&logoColor=white" alt="Company" />
-</p>
 
 <p align="center">
   <a href="https://yurathnayaka.me" target="_blank">
@@ -28,7 +24,7 @@
   </a>
   &nbsp;
   <a href="mailto:contact@yurathnayaka.me">
-    <img src="https://img.shields.io/badge/DIRECT_TRANSMISSION-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/DIRECT-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
